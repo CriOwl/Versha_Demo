@@ -1,0 +1,3 @@
+C:/Users/crist/Downloads/Versha-logica/Versha-logica/cmake-build-debug/CMakeFiles/Versha.dir
+C:/Users/crist/Downloads/Versha-logica/Versha-logica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crist/Downloads/Versha-logica/Versha-logica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

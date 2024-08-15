@@ -1,0 +1,100 @@
+     Que significa HTML?
+        a) HyperText Markup Language
+        b) HighText Machine Language
+        c) HyperText Marking Language
+        d) HyperText Marking Layout
+     Cual de los siguientes no es un lenguaje de programacion?
+        a) Python
+        b) JavaScript
+        c) SQL
+        d) HTML
+     En que año se lanzo Java?
+        a) 1990
+        b) 1991
+        c) 1995
+        d) 1996
+     Que significa IDE en el contexto de la programacion?
+        a) Integrated Development Environment
+        b) Internal Development Engine
+        c) Integrated Data Environment
+        d) Internal Data Engine
+     Cual es el creador del lenguaje de programacion Python?
+        a) James Gosling
+        b) Guido van Rossum
+        c) Brendan Eich
+        d) Dennis Ritchie
+     Cual de los siguientes lenguajes es mayormente utilizado para el desarrollo web del lado del servidor?
+        a) JavaScript
+        b) CSS
+        c) PHP
+        d) SQL
+     Que es Git?
+        a) Un sistema de gestion de bases de datos
+        b) Un lenguaje de programacion
+        c) Un sistema de control de versiones
+        d) Un editor de texto
+     Que extension de archivo es comun para los scripts de Python?
+        a) .py
+        b) .java
+        c) .js
+        d) .rb
+     Que empresa desarrollo el lenguaje de programacion Swift?
+        a) Google
+        b) Apple
+        c) Microsoft
+        d) IBM
+     Que tipo de lenguaje es SQL?
+        a) Lenguaje de programacion orientado a objetos
+        b) Lenguaje de consulta estructurada
+        c) Lenguaje de marcado
+        d) Lenguaje de programacion funcional
+     En que año se fundo la Escuela Politecnica Nacional?
+        a) 1869
+        b) 1870
+        c) 1873
+        d) 1875
+     Cual es el lema de la Escuela Politecnica Nacional?
+        a) "La tecnica al servicio de la patria"
+        b) "La ciencia y la tecnica al servicio del pais"
+        c) "Educacion para el progreso"
+        d) "Conocimiento y tecnologia para el desarrollo"
+     Que significa el acronimo EPN?
+        a) Escuela Profesional Nacional
+        b) Escuela Politecnica Nacional
+        c) Establecimiento Politecnico Nacional
+        d) Estudio Politecnico Nacional
+     Cual es la ciudad sede de la Escuela Politecnica Nacional?
+        a) Guayaquil
+        b) Cuenca
+        c) Quito
+        d) Loja
+     Que facultad de la EPN esta enfocada en la ingenieria de sistemas y computacion?
+        a) Facultad de Ciencias Administrativas
+        b) Facultad de Ingenieria Civil y Ambiental
+        c) Facultad de Ciencias Exactas y Naturales
+        d) Facultad de Ingenieria Electrica y Electronica
+     Cual es una de las revistas cientificas publicadas por la EPN?
+        a) Politecnica
+        b) Ciencia y Tecnologia
+        c) Innovacion Tecnica
+        d) Avances Politecnicos
+     Cual es la especialidad de la EPN que se enfoca en la energia renovable?
+        a) Ingenieria Ambiental
+        b) Ingenieria Electrica
+        c) Ingenieria en Energias Renovables
+        d) Ingenieria Electronica
+     Cual de los siguientes programas de posgrado ofrece la EPN?
+        a) Maestria en Educacion
+        b) Maestria en Tecnologias de la Informacion
+        c) Maestria en Medicina
+        d) Maestria en Ciencias Politicas
+     Que sigla se usa comunmente para referirse al Laboratorio de Instrumentacion y Control de la EPN?
+        a) LICE
+        b) LINCA
+        c) LIC
+        d) LICO
+     Que evento academico organiza anualmente la EPN para fomentar la investigacion y el desarrollo tecnologico?
+        a) ExpoCiencias
+        b) Semana de la Ingenieria
+        c) Jornada de Innovacion
+        d) Congreso Internacional de Ciencia y Tecnologia
